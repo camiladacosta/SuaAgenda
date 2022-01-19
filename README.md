@@ -1,12 +1,12 @@
 # SuaAgenda
 Aplicação Android desenvolvida na disciplina de Dispositivos Móveis 1, que consiste em uma agenda de contatos com ações de CRUD completo, realizada no Android Studio utilizando linguagem Java.
 
-Telas da aplicação:
-1 - Inicial
-2 - Listar 
-3 - Editar
-4 - Pesquisar
-5 - Excluir
+Telas da aplicação:<br>
+1 - Inicial <br>
+2 - Listar <br>
+3 - Editar<br>
+4 - Pesquisar<br>
+5 - Excluir<br>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/63813842/148435824-2c848c64-3336-426d-b7bb-2b7c8cfecffe.jpeg" width="250px">
